@@ -23,7 +23,7 @@ let classes = {
         'race': 'Human',
         'name': 'Sogmir',
         'role': 'Off Heals',
-        'gimic': 'A snobbish religous finatic for himself'
+        'gimic': 'A snobbish religous fanatic for himself'
     },
     'druid': {
         'race': 'Mechanical',
